@@ -6,7 +6,7 @@ int _printf(const char *format, ...);
 
 /**
  * h_hashtag - handle the hashtag (#) sign.
- * @charater: The character after the hashtag sign.
+ * @character: The character after the hashtag sign.
  * @ptr: pointer to current character.
  *
  * Return: The length of the printed character.
